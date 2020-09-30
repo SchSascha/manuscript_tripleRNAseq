@@ -1,5 +1,5 @@
 #!/usr/bin/env R
-# Geo2RNAseq-0.100.1
+# Geo2RNAseq-0.99.12
 #
 #library("Geo2RNAseq")
 source("R/Plotting.R")
