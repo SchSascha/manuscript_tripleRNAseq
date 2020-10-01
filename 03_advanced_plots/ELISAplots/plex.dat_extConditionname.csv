@@ -1,0 +1,641 @@
+variable	condition	condition2	value	replicate
+I-TAC (46)	DC	SC moDC	0	1
+I-TAC (46)	DC	SC moDC	0	2
+I-TAC (46)	DC	SC moDC	29.8	3
+I-TAC (46)	DC	SC moDC	0	4
+I-TAC (46)	DC + Afu 0h	SI Afu	32.26	1
+I-TAC (46)	DC + Afu 0h	SI Afu	0	2
+I-TAC (46)	DC + Afu 0h	SI Afu	0	3
+I-TAC (46)	DC + Afu 0h	SI Afu	0	4
+I-TAC (46)	DC + Afu 4.5h	SI Afu	0	1
+I-TAC (46)	DC + Afu 4.5h	SI Afu	0	2
+I-TAC (46)	DC + Afu 4.5h	SI Afu	0	3
+I-TAC (46)	DC + Afu 4.5h	SI Afu	0	4
+I-TAC (46)	DC + CMV 0h	SI CMV	276.62	1
+I-TAC (46)	DC + CMV 0h	SI CMV	204.92	2
+I-TAC (46)	DC + CMV 0h	SI CMV	275.48	3
+I-TAC (46)	DC + CMV 0h	SI CMV	1620.29	4
+I-TAC (46)	DC + CMV 0h + Afu 0h	CoI	760.2	1
+I-TAC (46)	DC + CMV 0h + Afu 0h	CoI	276.62	2
+I-TAC (46)	DC + CMV 0h + Afu 0h	CoI	424.85	3
+I-TAC (46)	DC + CMV 0h + Afu 0h	CoI	1269.26	4
+I-TAC (46)	DC + CMV 0h + Afu 4.5h	CoI	274.34	1
+I-TAC (46)	DC + CMV 0h + Afu 4.5h	CoI	217.42	2
+I-TAC (46)	DC + CMV 0h + Afu 4.5h	CoI	297.93	3
+I-TAC (46)	DC + CMV 0h + Afu 4.5h	CoI	1165.04	4
+I-TAC (46)	DC + CMV 2h + Afu 0h	CoI	342.22	1
+I-TAC (46)	DC + CMV 2h + Afu 0h	CoI	100.71	2
+I-TAC (46)	DC + CMV 2h + Afu 0h	CoI	130.13	3
+I-TAC (46)	DC + CMV 2h + Afu 0h	CoI	346.43	4
+I-TAC (46)	DC + CMV 2h	SI CMV	72.4	1
+I-TAC (46)	DC + CMV 2h	SI CMV	64.02	2
+I-TAC (46)	DC + CMV 2h	SI CMV	97.44	3
+I-TAC (46)	DC + CMV 2h	SI CMV	346.96	4
+I-TAC (46)	Afu 0h	SC Afu	0	1
+I-TAC (46)	Afu 0h	SC Afu	0	2
+I-TAC (46)	Afu 0h	SC Afu	0	3
+I-TAC (46)	Afu 0h	SC Afu	0	4
+I-TAC (46)	Afu 4.5h	SC Afu	0	1
+I-TAC (46)	Afu 4.5h	SC Afu	0	2
+I-TAC (46)	Afu 4.5h	SC Afu	0	3
+I-TAC (46)	Afu 4.5h	SC Afu	0	4
+IFN-alpha (48)	DC	SC moDC	0	1
+IFN-alpha (48)	DC	SC moDC	0	2
+IFN-alpha (48)	DC	SC moDC	0	3
+IFN-alpha (48)	DC	SC moDC	0	4
+IFN-alpha (48)	DC + Afu 0h	SI Afu	0	1
+IFN-alpha (48)	DC + Afu 0h	SI Afu	0	2
+IFN-alpha (48)	DC + Afu 0h	SI Afu	0.35	3
+IFN-alpha (48)	DC + Afu 0h	SI Afu	0	4
+IFN-alpha (48)	DC + Afu 4.5h	SI Afu	0	1
+IFN-alpha (48)	DC + Afu 4.5h	SI Afu	0	2
+IFN-alpha (48)	DC + Afu 4.5h	SI Afu	0	3
+IFN-alpha (48)	DC + Afu 4.5h	SI Afu	0	4
+IFN-alpha (48)	DC + CMV 0h	SI CMV	8.26	1
+IFN-alpha (48)	DC + CMV 0h	SI CMV	0	2
+IFN-alpha (48)	DC + CMV 0h	SI CMV	0.05	3
+IFN-alpha (48)	DC + CMV 0h	SI CMV	28.98	4
+IFN-alpha (48)	DC + CMV 0h + Afu 0h	CoI	35.34	1
+IFN-alpha (48)	DC + CMV 0h + Afu 0h	CoI	0	2
+IFN-alpha (48)	DC + CMV 0h + Afu 0h	CoI	6.85	3
+IFN-alpha (48)	DC + CMV 0h + Afu 0h	CoI	88.74	4
+IFN-alpha (48)	DC + CMV 0h + Afu 4.5h	CoI	11	1
+IFN-alpha (48)	DC + CMV 0h + Afu 4.5h	CoI	0.1	2
+IFN-alpha (48)	DC + CMV 0h + Afu 4.5h	CoI	4.19	3
+IFN-alpha (48)	DC + CMV 0h + Afu 4.5h	CoI	39.4	4
+IFN-alpha (48)	DC + CMV 2h + Afu 0h	CoI	4.31	1
+IFN-alpha (48)	DC + CMV 2h + Afu 0h	CoI	0	2
+IFN-alpha (48)	DC + CMV 2h + Afu 0h	CoI	0	3
+IFN-alpha (48)	DC + CMV 2h + Afu 0h	CoI	1.69	4
+IFN-alpha (48)	DC + CMV 2h	SI CMV	0	1
+IFN-alpha (48)	DC + CMV 2h	SI CMV	0	2
+IFN-alpha (48)	DC + CMV 2h	SI CMV	0	3
+IFN-alpha (48)	DC + CMV 2h	SI CMV	0	4
+IFN-alpha (48)	Afu 0h	SC Afu	0	1
+IFN-alpha (48)	Afu 0h	SC Afu	0	2
+IFN-alpha (48)	Afu 0h	SC Afu	0	3
+IFN-alpha (48)	Afu 0h	SC Afu	0	4
+IFN-alpha (48)	Afu 4.5h	SC Afu	0.24	1
+IFN-alpha (48)	Afu 4.5h	SC Afu	0	2
+IFN-alpha (48)	Afu 4.5h	SC Afu	0	3
+IFN-alpha (48)	Afu 4.5h	SC Afu	0	4
+IFN-beta (30)	DC	SC moDC	31.45	1
+IFN-beta (30)	DC	SC moDC	46.59	2
+IFN-beta (30)	DC	SC moDC	0	3
+IFN-beta (30)	DC	SC moDC	45.06	4
+IFN-beta (30)	DC + Afu 0h	SI Afu	54.35	1
+IFN-beta (30)	DC + Afu 0h	SI Afu	73.47	2
+IFN-beta (30)	DC + Afu 0h	SI Afu	26.54	3
+IFN-beta (30)	DC + Afu 0h	SI Afu	75.66	4
+IFN-beta (30)	DC + Afu 4.5h	SI Afu	31.45	1
+IFN-beta (30)	DC + Afu 4.5h	SI Afu	56.96	2
+IFN-beta (30)	DC + Afu 4.5h	SI Afu	20.02	3
+IFN-beta (30)	DC + Afu 4.5h	SI Afu	70.7	4
+IFN-beta (30)	DC + CMV 0h	SI CMV	814.15	1
+IFN-beta (30)	DC + CMV 0h	SI CMV	444.76	2
+IFN-beta (30)	DC + CMV 0h	SI CMV	766.6	3
+IFN-beta (30)	DC + CMV 0h	SI CMV	559.74	4
+IFN-beta (30)	DC + CMV 0h + Afu 0h	CoI	630.05	1
+IFN-beta (30)	DC + CMV 0h + Afu 0h	CoI	545.51	2
+IFN-beta (30)	DC + CMV 0h + Afu 0h	CoI	515.21	3
+IFN-beta (30)	DC + CMV 0h + Afu 0h	CoI	680.42	4
+IFN-beta (30)	DC + CMV 0h + Afu 4.5h	CoI	561.04	1
+IFN-beta (30)	DC + CMV 0h + Afu 4.5h	CoI	431.09	2
+IFN-beta (30)	DC + CMV 0h + Afu 4.5h	CoI	747.52	3
+IFN-beta (30)	DC + CMV 0h + Afu 4.5h	CoI	642.05	4
+IFN-beta (30)	DC + CMV 2h + Afu 0h	CoI	298.98	1
+IFN-beta (30)	DC + CMV 2h + Afu 0h	CoI	318.7	2
+IFN-beta (30)	DC + CMV 2h + Afu 0h	CoI	443.62	3
+IFN-beta (30)	DC + CMV 2h + Afu 0h	CoI	315.71	4
+IFN-beta (30)	DC + CMV 2h	SI CMV	396.72	1
+IFN-beta (30)	DC + CMV 2h	SI CMV	274.89	2
+IFN-beta (30)	DC + CMV 2h	SI CMV	664.31	3
+IFN-beta (30)	DC + CMV 2h	SI CMV	233.81	4
+IFN-beta (30)	Afu 0h	SC Afu	0	1
+IFN-beta (30)	Afu 0h	SC Afu	26.54	2
+IFN-beta (30)	Afu 0h	SC Afu	21.91	3
+IFN-beta (30)	Afu 0h	SC Afu	32.55	4
+IFN-beta (30)	Afu 4.5h	SC Afu	11	1
+IFN-beta (30)	Afu 4.5h	SC Afu	0	2
+IFN-beta (30)	Afu 4.5h	SC Afu	0	3
+IFN-beta (30)	Afu 4.5h	SC Afu	0	4
+IFN-gamma (43)	DC	SC moDC	2.75	1
+IFN-gamma (43)	DC	SC moDC	3.1	2
+IFN-gamma (43)	DC	SC moDC	6.3	3
+IFN-gamma (43)	DC	SC moDC	0	4
+IFN-gamma (43)	DC + Afu 0h	SI Afu	85.28	1
+IFN-gamma (43)	DC + Afu 0h	SI Afu	4.15	2
+IFN-gamma (43)	DC + Afu 0h	SI Afu	10.94	3
+IFN-gamma (43)	DC + Afu 0h	SI Afu	9.81	4
+IFN-gamma (43)	DC + Afu 4.5h	SI Afu	11.51	1
+IFN-gamma (43)	DC + Afu 4.5h	SI Afu	0	2
+IFN-gamma (43)	DC + Afu 4.5h	SI Afu	3.45	3
+IFN-gamma (43)	DC + Afu 4.5h	SI Afu	3.97	4
+IFN-gamma (43)	DC + CMV 0h	SI CMV	1.08	1
+IFN-gamma (43)	DC + CMV 0h	SI CMV	0.15	2
+IFN-gamma (43)	DC + CMV 0h	SI CMV	6.67	3
+IFN-gamma (43)	DC + CMV 0h	SI CMV	11.13	4
+IFN-gamma (43)	DC + CMV 0h + Afu 0h	CoI	940.68	1
+IFN-gamma (43)	DC + CMV 0h + Afu 0h	CoI	28.41	2
+IFN-gamma (43)	DC + CMV 0h + Afu 0h	CoI	34.93	3
+IFN-gamma (43)	DC + CMV 0h + Afu 0h	CoI	99.58	4
+IFN-gamma (43)	DC + CMV 0h + Afu 4.5h	CoI	123.25	1
+IFN-gamma (43)	DC + CMV 0h + Afu 4.5h	CoI	16.11	2
+IFN-gamma (43)	DC + CMV 0h + Afu 4.5h	CoI	13.8	3
+IFN-gamma (43)	DC + CMV 0h + Afu 4.5h	CoI	25.19	4
+IFN-gamma (43)	DC + CMV 2h + Afu 0h	CoI	327.39	1
+IFN-gamma (43)	DC + CMV 2h + Afu 0h	CoI	6.67	2
+IFN-gamma (43)	DC + CMV 2h + Afu 0h	CoI	10.75	3
+IFN-gamma (43)	DC + CMV 2h + Afu 0h	CoI	31.25	4
+IFN-gamma (43)	DC + CMV 2h	SI CMV	0	1
+IFN-gamma (43)	DC + CMV 2h	SI CMV	0	2
+IFN-gamma (43)	DC + CMV 2h	SI CMV	0	3
+IFN-gamma (43)	DC + CMV 2h	SI CMV	5.22	4
+IFN-gamma (43)	Afu 0h	SC Afu	7.22	1
+IFN-gamma (43)	Afu 0h	SC Afu	0.76	2
+IFN-gamma (43)	Afu 0h	SC Afu	0	3
+IFN-gamma (43)	Afu 0h	SC Afu	0	4
+IFN-gamma (43)	Afu 4.5h	SC Afu	0.02	1
+IFN-gamma (43)	Afu 4.5h	SC Afu	0.15	2
+IFN-gamma (43)	Afu 4.5h	SC Afu	1.74	3
+IFN-gamma (43)	Afu 4.5h	SC Afu	5.4	4
+IL-10 (28)	DC	SC moDC	14.23	1
+IL-10 (28)	DC	SC moDC	10.14	2
+IL-10 (28)	DC	SC moDC	14.38	3
+IL-10 (28)	DC	SC moDC	9.52	4
+IL-10 (28)	DC + Afu 0h	SI Afu	826.21	1
+IL-10 (28)	DC + Afu 0h	SI Afu	273.45	2
+IL-10 (28)	DC + Afu 0h	SI Afu	778.92	3
+IL-10 (28)	DC + Afu 0h	SI Afu	1362.58	4
+IL-10 (28)	DC + Afu 4.5h	SI Afu	138.24	1
+IL-10 (28)	DC + Afu 4.5h	SI Afu	102.18	2
+IL-10 (28)	DC + Afu 4.5h	SI Afu	264.58	3
+IL-10 (28)	DC + Afu 4.5h	SI Afu	137.01	4
+IL-10 (28)	DC + CMV 0h	SI CMV	14.94	1
+IL-10 (28)	DC + CMV 0h	SI CMV	7.8	2
+IL-10 (28)	DC + CMV 0h	SI CMV	10.99	3
+IL-10 (28)	DC + CMV 0h	SI CMV	9.69	4
+IL-10 (28)	DC + CMV 0h + Afu 0h	CoI	274.42	1
+IL-10 (28)	DC + CMV 0h + Afu 0h	CoI	166.19	2
+IL-10 (28)	DC + CMV 0h + Afu 0h	CoI	411.19	3
+IL-10 (28)	DC + CMV 0h + Afu 0h	CoI	591.62	4
+IL-10 (28)	DC + CMV 0h + Afu 4.5h	CoI	30.75	1
+IL-10 (28)	DC + CMV 0h + Afu 4.5h	CoI	56.22	2
+IL-10 (28)	DC + CMV 0h + Afu 4.5h	CoI	65.64	3
+IL-10 (28)	DC + CMV 0h + Afu 4.5h	CoI	58.54	4
+IL-10 (28)	DC + CMV 2h + Afu 0h	CoI	417.96	1
+IL-10 (28)	DC + CMV 2h + Afu 0h	CoI	209.69	2
+IL-10 (28)	DC + CMV 2h + Afu 0h	CoI	425.96	3
+IL-10 (28)	DC + CMV 2h + Afu 0h	CoI	723.97	4
+IL-10 (28)	DC + CMV 2h	SI CMV	12.24	1
+IL-10 (28)	DC + CMV 2h	SI CMV	9.33	2
+IL-10 (28)	DC + CMV 2h	SI CMV	18.97	3
+IL-10 (28)	DC + CMV 2h	SI CMV	10.2	4
+IL-10 (28)	Afu 0h	SC Afu	0.19	1
+IL-10 (28)	Afu 0h	SC Afu	0.28	2
+IL-10 (28)	Afu 0h	SC Afu	0.25	3
+IL-10 (28)	Afu 0h	SC Afu	0.22	4
+IL-10 (28)	Afu 4.5h	SC Afu	0.33	1
+IL-10 (28)	Afu 4.5h	SC Afu	0.3	2
+IL-10 (28)	Afu 4.5h	SC Afu	0.3	3
+IL-10 (28)	Afu 4.5h	SC Afu	0.27	4
+IL-12p70 (34)	DC	SC moDC	0	1
+IL-12p70 (34)	DC	SC moDC	0	2
+IL-12p70 (34)	DC	SC moDC	0	3
+IL-12p70 (34)	DC	SC moDC	0	4
+IL-12p70 (34)	DC + Afu 0h	SI Afu	0.57	1
+IL-12p70 (34)	DC + Afu 0h	SI Afu	0.62	2
+IL-12p70 (34)	DC + Afu 0h	SI Afu	0.84	3
+IL-12p70 (34)	DC + Afu 0h	SI Afu	0	4
+IL-12p70 (34)	DC + Afu 4.5h	SI Afu	0	1
+IL-12p70 (34)	DC + Afu 4.5h	SI Afu	0	2
+IL-12p70 (34)	DC + Afu 4.5h	SI Afu	0.88	3
+IL-12p70 (34)	DC + Afu 4.5h	SI Afu	0	4
+IL-12p70 (34)	DC + CMV 0h	SI CMV	0	1
+IL-12p70 (34)	DC + CMV 0h	SI CMV	0.84	2
+IL-12p70 (34)	DC + CMV 0h	SI CMV	1.6	3
+IL-12p70 (34)	DC + CMV 0h	SI CMV	0	4
+IL-12p70 (34)	DC + CMV 0h + Afu 0h	CoI	2.39	1
+IL-12p70 (34)	DC + CMV 0h + Afu 0h	CoI	1.08	2
+IL-12p70 (34)	DC + CMV 0h + Afu 0h	CoI	2.28	3
+IL-12p70 (34)	DC + CMV 0h + Afu 0h	CoI	2.31	4
+IL-12p70 (34)	DC + CMV 0h + Afu 4.5h	CoI	0	1
+IL-12p70 (34)	DC + CMV 0h + Afu 4.5h	CoI	1.33	2
+IL-12p70 (34)	DC + CMV 0h + Afu 4.5h	CoI	6.18	3
+IL-12p70 (34)	DC + CMV 0h + Afu 4.5h	CoI	1.52	4
+IL-12p70 (34)	DC + CMV 2h + Afu 0h	CoI	1.79	1
+IL-12p70 (34)	DC + CMV 2h + Afu 0h	CoI	0	2
+IL-12p70 (34)	DC + CMV 2h + Afu 0h	CoI	1.79	3
+IL-12p70 (34)	DC + CMV 2h + Afu 0h	CoI	0.39	4
+IL-12p70 (34)	DC + CMV 2h	SI CMV	0	1
+IL-12p70 (34)	DC + CMV 2h	SI CMV	0.05	2
+IL-12p70 (34)	DC + CMV 2h	SI CMV	0	3
+IL-12p70 (34)	DC + CMV 2h	SI CMV	0	4
+IL-12p70 (34)	Afu 0h	SC Afu	0	1
+IL-12p70 (34)	Afu 0h	SC Afu	0	2
+IL-12p70 (34)	Afu 0h	SC Afu	0	3
+IL-12p70 (34)	Afu 0h	SC Afu	0	4
+IL-12p70 (34)	Afu 4.5h	SC Afu	0	1
+IL-12p70 (34)	Afu 4.5h	SC Afu	0	2
+IL-12p70 (34)	Afu 4.5h	SC Afu	0	3
+IL-12p70 (34)	Afu 4.5h	SC Afu	0	4
+IL-17A (36)	DC	SC moDC	4.35	1
+IL-17A (36)	DC	SC moDC	4.35	2
+IL-17A (36)	DC	SC moDC	6.6	3
+IL-17A (36)	DC	SC moDC	0	4
+IL-17A (36)	DC + Afu 0h	SI Afu	24.36	1
+IL-17A (36)	DC + Afu 0h	SI Afu	6.6	2
+IL-17A (36)	DC + Afu 0h	SI Afu	8.09	3
+IL-17A (36)	DC + Afu 0h	SI Afu	9.5	4
+IL-17A (36)	DC + Afu 4.5h	SI Afu	9.5	1
+IL-17A (36)	DC + Afu 4.5h	SI Afu	5.67	2
+IL-17A (36)	DC + Afu 4.5h	SI Afu	7.5	3
+IL-17A (36)	DC + Afu 4.5h	SI Afu	4	4
+IL-17A (36)	DC + CMV 0h	SI CMV	6.91	1
+IL-17A (36)	DC + CMV 0h	SI CMV	14.41	2
+IL-17A (36)	DC + CMV 0h	SI CMV	18.44	3
+IL-17A (36)	DC + CMV 0h	SI CMV	5.35	4
+IL-17A (36)	DC + CMV 0h + Afu 0h	CoI	17.98	1
+IL-17A (36)	DC + CMV 0h + Afu 0h	CoI	4.69	2
+IL-17A (36)	DC + CMV 0h + Afu 0h	CoI	9.22	3
+IL-17A (36)	DC + CMV 0h + Afu 0h	CoI	7.21	4
+IL-17A (36)	DC + CMV 0h + Afu 4.5h	CoI	7.8	1
+IL-17A (36)	DC + CMV 0h + Afu 4.5h	CoI	12.16	2
+IL-17A (36)	DC + CMV 0h + Afu 4.5h	CoI	9.5	3
+IL-17A (36)	DC + CMV 0h + Afu 4.5h	CoI	6.3	4
+IL-17A (36)	DC + CMV 2h + Afu 0h	CoI	16.58	1
+IL-17A (36)	DC + CMV 2h + Afu 0h	CoI	8.94	2
+IL-17A (36)	DC + CMV 2h + Afu 0h	CoI	8.94	3
+IL-17A (36)	DC + CMV 2h + Afu 0h	CoI	9.5	4
+IL-17A (36)	DC + CMV 2h	SI CMV	3.64	1
+IL-17A (36)	DC + CMV 2h	SI CMV	8.66	2
+IL-17A (36)	DC + CMV 2h	SI CMV	5.35	3
+IL-17A (36)	DC + CMV 2h	SI CMV	4.69	4
+IL-17A (36)	Afu 0h	SC Afu	0	1
+IL-17A (36)	Afu 0h	SC Afu	0	2
+IL-17A (36)	Afu 0h	SC Afu	0	3
+IL-17A (36)	Afu 0h	SC Afu	0	4
+IL-17A (36)	Afu 4.5h	SC Afu	0	1
+IL-17A (36)	Afu 4.5h	SC Afu	0	2
+IL-17A (36)	Afu 4.5h	SC Afu	0	3
+IL-17A (36)	Afu 4.5h	SC Afu	0	4
+IL-1alpha (62)	DC	SC moDC	4.9	1
+IL-1alpha (62)	DC	SC moDC	3.42	2
+IL-1alpha (62)	DC	SC moDC	3.8	3
+IL-1alpha (62)	DC	SC moDC	1.73	4
+IL-1alpha (62)	DC + Afu 0h	SI Afu	27.58	1
+IL-1alpha (62)	DC + Afu 0h	SI Afu	8.55	2
+IL-1alpha (62)	DC + Afu 0h	SI Afu	14.14	3
+IL-1alpha (62)	DC + Afu 0h	SI Afu	40.29	4
+IL-1alpha (62)	DC + Afu 4.5h	SI Afu	13.28	1
+IL-1alpha (62)	DC + Afu 4.5h	SI Afu	8.83	2
+IL-1alpha (62)	DC + Afu 4.5h	SI Afu	14.18	3
+IL-1alpha (62)	DC + Afu 4.5h	SI Afu	14.38	4
+IL-1alpha (62)	DC + CMV 0h	SI CMV	7.3	1
+IL-1alpha (62)	DC + CMV 0h	SI CMV	6.68	2
+IL-1alpha (62)	DC + CMV 0h	SI CMV	6.53	3
+IL-1alpha (62)	DC + CMV 0h	SI CMV	7.7	4
+IL-1alpha (62)	DC + CMV 0h + Afu 0h	CoI	30.27	1
+IL-1alpha (62)	DC + CMV 0h + Afu 0h	CoI	12.8	2
+IL-1alpha (62)	DC + CMV 0h + Afu 0h	CoI	19.07	3
+IL-1alpha (62)	DC + CMV 0h + Afu 0h	CoI	39.2	4
+IL-1alpha (62)	DC + CMV 0h + Afu 4.5h	CoI	12.5	1
+IL-1alpha (62)	DC + CMV 0h + Afu 4.5h	CoI	10.07	2
+IL-1alpha (62)	DC + CMV 0h + Afu 4.5h	CoI	17.49	3
+IL-1alpha (62)	DC + CMV 0h + Afu 4.5h	CoI	15.19	4
+IL-1alpha (62)	DC + CMV 2h + Afu 0h	CoI	26.03	1
+IL-1alpha (62)	DC + CMV 2h + Afu 0h	CoI	12.39	2
+IL-1alpha (62)	DC + CMV 2h + Afu 0h	CoI	20.8	3
+IL-1alpha (62)	DC + CMV 2h + Afu 0h	CoI	37.99	4
+IL-1alpha (62)	DC + CMV 2h	SI CMV	6.43	1
+IL-1alpha (62)	DC + CMV 2h	SI CMV	6.09	2
+IL-1alpha (62)	DC + CMV 2h	SI CMV	7.25	3
+IL-1alpha (62)	DC + CMV 2h	SI CMV	5.14	4
+IL-1alpha (62)	Afu 0h	SC Afu	0.04	1
+IL-1alpha (62)	Afu 0h	SC Afu	0	2
+IL-1alpha (62)	Afu 0h	SC Afu	0	3
+IL-1alpha (62)	Afu 0h	SC Afu	0	4
+IL-1alpha (62)	Afu 4.5h	SC Afu	0	1
+IL-1alpha (62)	Afu 4.5h	SC Afu	0	2
+IL-1alpha (62)	Afu 4.5h	SC Afu	0	3
+IL-1alpha (62)	Afu 4.5h	SC Afu	0	4
+IL-1beta (18)	DC	SC moDC	2.13	1
+IL-1beta (18)	DC	SC moDC	0.28	2
+IL-1beta (18)	DC	SC moDC	1.7	3
+IL-1beta (18)	DC	SC moDC	0	4
+IL-1beta (18)	DC + Afu 0h	SI Afu	1811.2	1
+IL-1beta (18)	DC + Afu 0h	SI Afu	24.71	2
+IL-1beta (18)	DC + Afu 0h	SI Afu	634.84	3
+IL-1beta (18)	DC + Afu 0h	SI Afu	2487.11	4
+IL-1beta (18)	DC + Afu 4.5h	SI Afu	442.3	1
+IL-1beta (18)	DC + Afu 4.5h	SI Afu	27.83	2
+IL-1beta (18)	DC + Afu 4.5h	SI Afu	820.85	3
+IL-1beta (18)	DC + Afu 4.5h	SI Afu	411.44	4
+IL-1beta (18)	DC + CMV 0h	SI CMV	0.33	1
+IL-1beta (18)	DC + CMV 0h	SI CMV	2.22	2
+IL-1beta (18)	DC + CMV 0h	SI CMV	3.95	3
+IL-1beta (18)	DC + CMV 0h	SI CMV	0.44	4
+IL-1beta (18)	DC + CMV 0h + Afu 0h	CoI	1968.08	1
+IL-1beta (18)	DC + CMV 0h + Afu 0h	CoI	51.33	2
+IL-1beta (18)	DC + CMV 0h + Afu 0h	CoI	566.12	3
+IL-1beta (18)	DC + CMV 0h + Afu 0h	CoI	2031.08	4
+IL-1beta (18)	DC + CMV 0h + Afu 4.5h	CoI	83.32	1
+IL-1beta (18)	DC + CMV 0h + Afu 4.5h	CoI	28.18	2
+IL-1beta (18)	DC + CMV 0h + Afu 4.5h	CoI	297.78	3
+IL-1beta (18)	DC + CMV 0h + Afu 4.5h	CoI	207.02	4
+IL-1beta (18)	DC + CMV 2h + Afu 0h	CoI	1654.13	1
+IL-1beta (18)	DC + CMV 2h + Afu 0h	CoI	44.61	2
+IL-1beta (18)	DC + CMV 2h + Afu 0h	CoI	688.95	3
+IL-1beta (18)	DC + CMV 2h + Afu 0h	CoI	2729.09	4
+IL-1beta (18)	DC + CMV 2h	SI CMV	0	1
+IL-1beta (18)	DC + CMV 2h	SI CMV	0.99	2
+IL-1beta (18)	DC + CMV 2h	SI CMV	0.69	3
+IL-1beta (18)	DC + CMV 2h	SI CMV	0	4
+IL-1beta (18)	Afu 0h	SC Afu	0	1
+IL-1beta (18)	Afu 0h	SC Afu	0	2
+IL-1beta (18)	Afu 0h	SC Afu	0	3
+IL-1beta (18)	Afu 0h	SC Afu	0	4
+IL-1beta (18)	Afu 4.5h	SC Afu	0	1
+IL-1beta (18)	Afu 4.5h	SC Afu	0	2
+IL-1beta (18)	Afu 4.5h	SC Afu	0	3
+IL-1beta (18)	Afu 4.5h	SC Afu	0.28	4
+IL-2 (19)	DC	SC moDC	0	1
+IL-2 (19)	DC	SC moDC	0	2
+IL-2 (19)	DC	SC moDC	0	3
+IL-2 (19)	DC	SC moDC	0	4
+IL-2 (19)	DC + Afu 0h	SI Afu	69.72	1
+IL-2 (19)	DC + Afu 0h	SI Afu	22.08	2
+IL-2 (19)	DC + Afu 0h	SI Afu	48.04	3
+IL-2 (19)	DC + Afu 0h	SI Afu	62.12	4
+IL-2 (19)	DC + Afu 4.5h	SI Afu	22.08	1
+IL-2 (19)	DC + Afu 4.5h	SI Afu	26.68	2
+IL-2 (19)	DC + Afu 4.5h	SI Afu	34.68	3
+IL-2 (19)	DC + Afu 4.5h	SI Afu	0	4
+IL-2 (19)	DC + CMV 0h	SI CMV	22.08	1
+IL-2 (19)	DC + CMV 0h	SI CMV	24.45	2
+IL-2 (19)	DC + CMV 0h	SI CMV	56.74	3
+IL-2 (19)	DC + CMV 0h	SI CMV	38.27	4
+IL-2 (19)	DC + CMV 0h + Afu 0h	CoI	67.24	1
+IL-2 (19)	DC + CMV 0h + Afu 0h	CoI	34.68	2
+IL-2 (19)	DC + CMV 0h + Afu 0h	CoI	65.98	3
+IL-2 (19)	DC + CMV 0h + Afu 0h	CoI	53.93	4
+IL-2 (19)	DC + CMV 0h + Afu 4.5h	CoI	40	1
+IL-2 (19)	DC + CMV 0h + Afu 4.5h	CoI	36.5	2
+IL-2 (19)	DC + CMV 0h + Afu 4.5h	CoI	51.03	3
+IL-2 (19)	DC + CMV 0h + Afu 4.5h	CoI	40	4
+IL-2 (19)	DC + CMV 2h + Afu 0h	CoI	62.12	1
+IL-2 (19)	DC + CMV 2h + Afu 0h	CoI	34.68	2
+IL-2 (19)	DC + CMV 2h + Afu 0h	CoI	48.04	3
+IL-2 (19)	DC + CMV 2h + Afu 0h	CoI	53.93	4
+IL-2 (19)	DC + CMV 2h	SI CMV	0	1
+IL-2 (19)	DC + CMV 2h	SI CMV	0	2
+IL-2 (19)	DC + CMV 2h	SI CMV	16.8	3
+IL-2 (19)	DC + CMV 2h	SI CMV	10.16	4
+IL-2 (19)	Afu 0h	SC Afu	0	1
+IL-2 (19)	Afu 0h	SC Afu	0	2
+IL-2 (19)	Afu 0h	SC Afu	0	3
+IL-2 (19)	Afu 0h	SC Afu	0	4
+IL-2 (19)	Afu 4.5h	SC Afu	0	1
+IL-2 (19)	Afu 4.5h	SC Afu	0	2
+IL-2 (19)	Afu 4.5h	SC Afu	0	3
+IL-2 (19)	Afu 4.5h	SC Afu	0	4
+IL-23 (63)	DC	SC moDC	8.55	1
+IL-23 (63)	DC	SC moDC	9.34	2
+IL-23 (63)	DC	SC moDC	19.17	3
+IL-23 (63)	DC	SC moDC	3.01	4
+IL-23 (63)	DC + Afu 0h	SI Afu	5.79	1
+IL-23 (63)	DC + Afu 0h	SI Afu	6.18	2
+IL-23 (63)	DC + Afu 0h	SI Afu	15.64	3
+IL-23 (63)	DC + Afu 0h	SI Afu	16.03	4
+IL-23 (63)	DC + Afu 4.5h	SI Afu	10.13	1
+IL-23 (63)	DC + Afu 4.5h	SI Afu	2.21	2
+IL-23 (63)	DC + Afu 4.5h	SI Afu	6.97	3
+IL-23 (63)	DC + Afu 4.5h	SI Afu	11.7	4
+IL-23 (63)	DC + CMV 0h	SI CMV	3.01	1
+IL-23 (63)	DC + CMV 0h	SI CMV	12.89	2
+IL-23 (63)	DC + CMV 0h	SI CMV	26.25	3
+IL-23 (63)	DC + CMV 0h	SI CMV	3.81	4
+IL-23 (63)	DC + CMV 0h + Afu 0h	CoI	4.2	1
+IL-23 (63)	DC + CMV 0h + Afu 0h	CoI	6.18	2
+IL-23 (63)	DC + CMV 0h + Afu 0h	CoI	12.89	3
+IL-23 (63)	DC + CMV 0h + Afu 0h	CoI	16.42	4
+IL-23 (63)	DC + CMV 0h + Afu 4.5h	CoI	1.01	1
+IL-23 (63)	DC + CMV 0h + Afu 4.5h	CoI	14.85	2
+IL-23 (63)	DC + CMV 0h + Afu 4.5h	CoI	10.92	3
+IL-23 (63)	DC + CMV 0h + Afu 4.5h	CoI	5.39	4
+IL-23 (63)	DC + CMV 2h + Afu 0h	CoI	2.21	1
+IL-23 (63)	DC + CMV 2h + Afu 0h	CoI	8.55	2
+IL-23 (63)	DC + CMV 2h + Afu 0h	CoI	11.7	3
+IL-23 (63)	DC + CMV 2h + Afu 0h	CoI	1.41	4
+IL-23 (63)	DC + CMV 2h	SI CMV	0	1
+IL-23 (63)	DC + CMV 2h	SI CMV	5	2
+IL-23 (63)	DC + CMV 2h	SI CMV	1.41	3
+IL-23 (63)	DC + CMV 2h	SI CMV	0.6	4
+IL-23 (63)	Afu 0h	SC Afu	0.6	1
+IL-23 (63)	Afu 0h	SC Afu	2.61	2
+IL-23 (63)	Afu 0h	SC Afu	0	3
+IL-23 (63)	Afu 0h	SC Afu	0	4
+IL-23 (63)	Afu 4.5h	SC Afu	0	1
+IL-23 (63)	Afu 4.5h	SC Afu	0	2
+IL-23 (63)	Afu 4.5h	SC Afu	0	3
+IL-23 (63)	Afu 4.5h	SC Afu	1.41	4
+IL-6 (25)	DC	SC moDC	240.28	1
+IL-6 (25)	DC	SC moDC	19.85	2
+IL-6 (25)	DC	SC moDC	82.72	3
+IL-6 (25)	DC	SC moDC	61.42	4
+IL-6 (25)	DC + Afu 0h	SI Afu	NA	1
+IL-6 (25)	DC + Afu 0h	SI Afu	441.42	2
+IL-6 (25)	DC + Afu 0h	SI Afu	2825.05	3
+IL-6 (25)	DC + Afu 0h	SI Afu	10900.72	4
+IL-6 (25)	DC + Afu 4.5h	SI Afu	5909.75	1
+IL-6 (25)	DC + Afu 4.5h	SI Afu	669.08	2
+IL-6 (25)	DC + Afu 4.5h	SI Afu	3237.99	3
+IL-6 (25)	DC + Afu 4.5h	SI Afu	4593.9	4
+IL-6 (25)	DC + CMV 0h	SI CMV	1676.45	1
+IL-6 (25)	DC + CMV 0h	SI CMV	146.29	2
+IL-6 (25)	DC + CMV 0h	SI CMV	579.5	3
+IL-6 (25)	DC + CMV 0h	SI CMV	3088.28	4
+IL-6 (25)	DC + CMV 0h + Afu 0h	CoI	NA	1
+IL-6 (25)	DC + CMV 0h + Afu 0h	CoI	957.02	2
+IL-6 (25)	DC + CMV 0h + Afu 0h	CoI	4465.63	3
+IL-6 (25)	DC + CMV 0h + Afu 0h	CoI	NA	4
+IL-6 (25)	DC + CMV 0h + Afu 4.5h	CoI	NA	1
+IL-6 (25)	DC + CMV 0h + Afu 4.5h	CoI	1923.59	2
+IL-6 (25)	DC + CMV 0h + Afu 4.5h	CoI	5730.24	3
+IL-6 (25)	DC + CMV 0h + Afu 4.5h	CoI	NA	4
+IL-6 (25)	DC + CMV 2h + Afu 0h	CoI	NA	1
+IL-6 (25)	DC + CMV 2h + Afu 0h	CoI	845.26	2
+IL-6 (25)	DC + CMV 2h + Afu 0h	CoI	4250.86	3
+IL-6 (25)	DC + CMV 2h + Afu 0h	CoI	NA	4
+IL-6 (25)	DC + CMV 2h	SI CMV	1723.11	1
+IL-6 (25)	DC + CMV 2h	SI CMV	58.85	2
+IL-6 (25)	DC + CMV 2h	SI CMV	395.07	3
+IL-6 (25)	DC + CMV 2h	SI CMV	2217.5	4
+IL-6 (25)	Afu 0h	SC Afu	0	1
+IL-6 (25)	Afu 0h	SC Afu	0	2
+IL-6 (25)	Afu 0h	SC Afu	0	3
+IL-6 (25)	Afu 0h	SC Afu	0	4
+IL-6 (25)	Afu 4.5h	SC Afu	0	1
+IL-6 (25)	Afu 4.5h	SC Afu	0	2
+IL-6 (25)	Afu 4.5h	SC Afu	0	3
+IL-6 (25)	Afu 4.5h	SC Afu	0	4
+IL-8 (27)	DC	SC moDC	1344.06	1
+IL-8 (27)	DC	SC moDC	1012.37	2
+IL-8 (27)	DC	SC moDC	1244.52	3
+IL-8 (27)	DC	SC moDC	321.7	4
+IL-8 (27)	DC + Afu 0h	SI Afu	6507.18	1
+IL-8 (27)	DC + Afu 0h	SI Afu	7075.35	2
+IL-8 (27)	DC + Afu 0h	SI Afu	5388.57	3
+IL-8 (27)	DC + Afu 0h	SI Afu	5775.07	4
+IL-8 (27)	DC + Afu 4.5h	SI Afu	6072.6	1
+IL-8 (27)	DC + Afu 4.5h	SI Afu	6624.24	2
+IL-8 (27)	DC + Afu 4.5h	SI Afu	5865.39	3
+IL-8 (27)	DC + Afu 4.5h	SI Afu	7373.48	4
+IL-8 (27)	DC + CMV 0h	SI CMV	1027.79	1
+IL-8 (27)	DC + CMV 0h	SI CMV	1169.98	2
+IL-8 (27)	DC + CMV 0h	SI CMV	1109.43	3
+IL-8 (27)	DC + CMV 0h	SI CMV	648.94	4
+IL-8 (27)	DC + CMV 0h + Afu 0h	CoI	8216.11	1
+IL-8 (27)	DC + CMV 0h + Afu 0h	CoI	5474.8	2
+IL-8 (27)	DC + CMV 0h + Afu 0h	CoI	5339.89	3
+IL-8 (27)	DC + CMV 0h + Afu 0h	CoI	4713.49	4
+IL-8 (27)	DC + CMV 0h + Afu 4.5h	CoI	9547.19	1
+IL-8 (27)	DC + CMV 0h + Afu 4.5h	CoI	4478.81	2
+IL-8 (27)	DC + CMV 0h + Afu 4.5h	CoI	5826.28	3
+IL-8 (27)	DC + CMV 0h + Afu 4.5h	CoI	5332.02	4
+IL-8 (27)	DC + CMV 2h + Afu 0h	CoI	5642.87	1
+IL-8 (27)	DC + CMV 2h + Afu 0h	CoI	5693.82	2
+IL-8 (27)	DC + CMV 2h + Afu 0h	CoI	5185.18	3
+IL-8 (27)	DC + CMV 2h + Afu 0h	CoI	8091.77	4
+IL-8 (27)	DC + CMV 2h	SI CMV	1877.16	1
+IL-8 (27)	DC + CMV 2h	SI CMV	1423.05	2
+IL-8 (27)	DC + CMV 2h	SI CMV	2001.77	3
+IL-8 (27)	DC + CMV 2h	SI CMV	995.22	4
+IL-8 (27)	Afu 0h	SC Afu	0	1
+IL-8 (27)	Afu 0h	SC Afu	0	2
+IL-8 (27)	Afu 0h	SC Afu	0	3
+IL-8 (27)	Afu 0h	SC Afu	0	4
+IL-8 (27)	Afu 4.5h	SC Afu	0	1
+IL-8 (27)	Afu 4.5h	SC Afu	0	2
+IL-8 (27)	Afu 4.5h	SC Afu	0	3
+IL-8 (27)	Afu 4.5h	SC Afu	0	4
+IP-10 (22)	DC	SC moDC	42.53	1
+IP-10 (22)	DC	SC moDC	30.82	2
+IP-10 (22)	DC	SC moDC	27.05	3
+IP-10 (22)	DC	SC moDC	22.38	4
+IP-10 (22)	DC + Afu 0h	SI Afu	2073.62	1
+IP-10 (22)	DC + Afu 0h	SI Afu	297.36	2
+IP-10 (22)	DC + Afu 0h	SI Afu	386.67	3
+IP-10 (22)	DC + Afu 0h	SI Afu	187.04	4
+IP-10 (22)	DC + Afu 4.5h	SI Afu	163.52	1
+IP-10 (22)	DC + Afu 4.5h	SI Afu	68.19	2
+IP-10 (22)	DC + Afu 4.5h	SI Afu	80.93	3
+IP-10 (22)	DC + Afu 4.5h	SI Afu	39.54	4
+IP-10 (22)	DC + CMV 0h	SI CMV	1623.88	1
+IP-10 (22)	DC + CMV 0h	SI CMV	807.24	2
+IP-10 (22)	DC + CMV 0h	SI CMV	891.86	3
+IP-10 (22)	DC + CMV 0h	SI CMV	1345.14	4
+IP-10 (22)	DC + CMV 0h + Afu 0h	CoI	1400.09	1
+IP-10 (22)	DC + CMV 0h + Afu 0h	CoI	1274.33	2
+IP-10 (22)	DC + CMV 0h + Afu 0h	CoI	1345.62	3
+IP-10 (22)	DC + CMV 0h + Afu 0h	CoI	1232.28	4
+IP-10 (22)	DC + CMV 0h + Afu 4.5h	CoI	1690.72	1
+IP-10 (22)	DC + CMV 0h + Afu 4.5h	CoI	1013.99	2
+IP-10 (22)	DC + CMV 0h + Afu 4.5h	CoI	1248.37	3
+IP-10 (22)	DC + CMV 0h + Afu 4.5h	CoI	1513.48	4
+IP-10 (22)	DC + CMV 2h + Afu 0h	CoI	1461.73	1
+IP-10 (22)	DC + CMV 2h + Afu 0h	CoI	1362.09	2
+IP-10 (22)	DC + CMV 2h + Afu 0h	CoI	1170.26	3
+IP-10 (22)	DC + CMV 2h + Afu 0h	CoI	1534.78	4
+IP-10 (22)	DC + CMV 2h	SI CMV	2164.13	1
+IP-10 (22)	DC + CMV 2h	SI CMV	989.17	2
+IP-10 (22)	DC + CMV 2h	SI CMV	1302.46	3
+IP-10 (22)	DC + CMV 2h	SI CMV	1570.51	4
+IP-10 (22)	Afu 0h	SC Afu	2.65	1
+IP-10 (22)	Afu 0h	SC Afu	2.14	2
+IP-10 (22)	Afu 0h	SC Afu	2.4	3
+IP-10 (22)	Afu 0h	SC Afu	2.27	4
+IP-10 (22)	Afu 4.5h	SC Afu	2.4	1
+IP-10 (22)	Afu 4.5h	SC Afu	2.14	2
+IP-10 (22)	Afu 4.5h	SC Afu	2.27	3
+IP-10 (22)	Afu 4.5h	SC Afu	2.34	4
+RANTES (42)	DC	SC moDC	0	1
+RANTES (42)	DC	SC moDC	1.57	2
+RANTES (42)	DC	SC moDC	0	3
+RANTES (42)	DC	SC moDC	0.23	4
+RANTES (42)	DC + Afu 0h	SI Afu	19.92	1
+RANTES (42)	DC + Afu 0h	SI Afu	8.79	2
+RANTES (42)	DC + Afu 0h	SI Afu	26.8	3
+RANTES (42)	DC + Afu 0h	SI Afu	25.15	4
+RANTES (42)	DC + Afu 4.5h	SI Afu	4.06	1
+RANTES (42)	DC + Afu 4.5h	SI Afu	1	2
+RANTES (42)	DC + Afu 4.5h	SI Afu	7.59	3
+RANTES (42)	DC + Afu 4.5h	SI Afu	6.06	4
+RANTES (42)	DC + CMV 0h	SI CMV	22.43	1
+RANTES (42)	DC + CMV 0h	SI CMV	9.6	2
+RANTES (42)	DC + CMV 0h	SI CMV	22.5	3
+RANTES (42)	DC + CMV 0h	SI CMV	48.15	4
+RANTES (42)	DC + CMV 0h + Afu 0h	CoI	138.23	1
+RANTES (42)	DC + CMV 0h + Afu 0h	CoI	54.85	2
+RANTES (42)	DC + CMV 0h + Afu 0h	CoI	139.14	3
+RANTES (42)	DC + CMV 0h + Afu 0h	CoI	228.12	4
+RANTES (42)	DC + CMV 0h + Afu 4.5h	CoI	43.69	1
+RANTES (42)	DC + CMV 0h + Afu 4.5h	CoI	30.94	2
+RANTES (42)	DC + CMV 0h + Afu 4.5h	CoI	63.38	3
+RANTES (42)	DC + CMV 0h + Afu 4.5h	CoI	107.3	4
+RANTES (42)	DC + CMV 2h + Afu 0h	CoI	72.69	1
+RANTES (42)	DC + CMV 2h + Afu 0h	CoI	33.82	2
+RANTES (42)	DC + CMV 2h + Afu 0h	CoI	95.66	3
+RANTES (42)	DC + CMV 2h + Afu 0h	CoI	116.52	4
+RANTES (42)	DC + CMV 2h	SI CMV	8.74	1
+RANTES (42)	DC + CMV 2h	SI CMV	1.57	2
+RANTES (42)	DC + CMV 2h	SI CMV	16.37	3
+RANTES (42)	DC + CMV 2h	SI CMV	11.7	4
+RANTES (42)	Afu 0h	SC Afu	0	1
+RANTES (42)	Afu 0h	SC Afu	0	2
+RANTES (42)	Afu 0h	SC Afu	0	3
+RANTES (42)	Afu 0h	SC Afu	0	4
+RANTES (42)	Afu 4.5h	SC Afu	0	1
+RANTES (42)	Afu 4.5h	SC Afu	0	2
+RANTES (42)	Afu 4.5h	SC Afu	0	3
+RANTES (42)	Afu 4.5h	SC Afu	1.39	4
+TNF-alpha (45)	DC	SC moDC	11.77	1
+TNF-alpha (45)	DC	SC moDC	3.39	2
+TNF-alpha (45)	DC	SC moDC	18.85	3
+TNF-alpha (45)	DC	SC moDC	2.36	4
+TNF-alpha (45)	DC + Afu 0h	SI Afu	3979.82	1
+TNF-alpha (45)	DC + Afu 0h	SI Afu	3312.22	2
+TNF-alpha (45)	DC + Afu 0h	SI Afu	3616.99	3
+TNF-alpha (45)	DC + Afu 0h	SI Afu	6988.49	4
+TNF-alpha (45)	DC + Afu 4.5h	SI Afu	2002.37	1
+TNF-alpha (45)	DC + Afu 4.5h	SI Afu	2112.17	2
+TNF-alpha (45)	DC + Afu 4.5h	SI Afu	3455.33	3
+TNF-alpha (45)	DC + Afu 4.5h	SI Afu	2909.94	4
+TNF-alpha (45)	DC + CMV 0h	SI CMV	30.08	1
+TNF-alpha (45)	DC + CMV 0h	SI CMV	39.47	2
+TNF-alpha (45)	DC + CMV 0h	SI CMV	42.8	3
+TNF-alpha (45)	DC + CMV 0h	SI CMV	73.45	4
+TNF-alpha (45)	DC + CMV 0h + Afu 0h	CoI	4023.14	1
+TNF-alpha (45)	DC + CMV 0h + Afu 0h	CoI	3180.47	2
+TNF-alpha (45)	DC + CMV 0h + Afu 0h	CoI	5539.05	3
+TNF-alpha (45)	DC + CMV 0h + Afu 0h	CoI	7127.25	4
+TNF-alpha (45)	DC + CMV 0h + Afu 4.5h	CoI	2182.75	1
+TNF-alpha (45)	DC + CMV 0h + Afu 4.5h	CoI	2793.6	2
+TNF-alpha (45)	DC + CMV 0h + Afu 4.5h	CoI	3940.72	3
+TNF-alpha (45)	DC + CMV 0h + Afu 4.5h	CoI	3874.25	4
+TNF-alpha (45)	DC + CMV 2h + Afu 0h	CoI	3587.65	1
+TNF-alpha (45)	DC + CMV 2h + Afu 0h	CoI	2970.64	2
+TNF-alpha (45)	DC + CMV 2h + Afu 0h	CoI	4556.36	3
+TNF-alpha (45)	DC + CMV 2h + Afu 0h	CoI	10011.91	4
+TNF-alpha (45)	DC + CMV 2h	SI CMV	30.79	1
+TNF-alpha (45)	DC + CMV 2h	SI CMV	32.22	2
+TNF-alpha (45)	DC + CMV 2h	SI CMV	27.93	3
+TNF-alpha (45)	DC + CMV 2h	SI CMV	20.14	4
+TNF-alpha (45)	Afu 0h	SC Afu	0.16	1
+TNF-alpha (45)	Afu 0h	SC Afu	0.63	2
+TNF-alpha (45)	Afu 0h	SC Afu	0.16	3
+TNF-alpha (45)	Afu 0h	SC Afu	0.16	4
+TNF-alpha (45)	Afu 4.5h	SC Afu	0.63	1
+TNF-alpha (45)	Afu 4.5h	SC Afu	0.63	2
+TNF-alpha (45)	Afu 4.5h	SC Afu	0.16	3
+TNF-alpha (45)	Afu 4.5h	SC Afu	0	4
