@@ -1,4 +1,4 @@
-# loading and plotting qPCR data vs respective expression data
+# loading and plotting qPCR data vs respective RNA-seq data
 
 library("tidyverse")
 library("ggpubr")
