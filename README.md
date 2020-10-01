@@ -12,5 +12,8 @@ Here, code to derive the main conclusions described in Seelbinder et al. (2020),
 	* Read library composition analysis, including figures
 	* Comparing statistical results across different experimental conditions
 * **03_advanced_plots/ :** Contains the code for more complex plots. It includes code for:
+	* visualization of RNA types
+	* visualization of RNA-seq and qPCR data
+	* visualization of cytokine measurements
 	* KEGG pathway visualization
 	* Principle Component Analysis across different experimental conditions
